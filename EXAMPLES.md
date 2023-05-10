@@ -9,3 +9,8 @@ https://www.reddit.com/r/creativecoding/comments/13bz71f/traveling_circus_p5js/
 https://www.reddit.com/r/creativecoding/comments/13b2g4w/idk_what_to_call_this/
 https://www.reddit.com/r/creativecoding/comments/12nl0jy/a_few_weeks_ago_i_posted_my_music_making/
 https://www.reddit.com/r/creativecoding/comments/12su7mk/creating_regular_grids_with_voronoi/
+
+## Further learning
+
+[The Coding Train](https://www.youtube.com/@TheCodingTrain)
+[p5.js docs](https://p5js.org/)

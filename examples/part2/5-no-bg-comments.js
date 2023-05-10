@@ -3,6 +3,7 @@ function setup() {
 }
 
 function draw() {
+  // what happens if you comment the line below?
   //background(220);
   ellipse(mouseX, mouseY, 50);
 }
